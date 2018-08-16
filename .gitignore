@@ -1,0 +1,8 @@
+*.dll
+*.exe
+*.ini
+*.log
+*.sav
+
+dgVoodoo.conf
+data/art/Art.blk
