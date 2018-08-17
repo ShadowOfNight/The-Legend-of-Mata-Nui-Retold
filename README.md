@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.002
+- Removed all language blks save the one for English.  New ones will be generated once English text has been finalized.
+- Removed two mp3s from data\Sounds that were duplicates and therefore unused.
+
 v0.00.001
 - Removed everything save BionicleFont.col from data\Art\Fonts.
 - Removed everything but LUKE.col from data\Art\MenuArt.
