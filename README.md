@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.003
+- Removed data\Art\hud folder as contents are not used.
+- Removed empty haka.blk from data\levels\lev4
+
 v0.00.002
 - Removed all language blks save the one for English.  New ones will be generated once English text has been finalized.
 - Removed two mp3s from data\Sounds that were duplicates and therefore unused.
