@@ -7,6 +7,11 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.004
+- Added areas ILLU and GLY2 to levels\lev5 and added entries to debug warp list for Lewa.
+- Removed blank debug menu entries under Abilities menu.
+- Ported alpha version of Ga-Kini (SHRN) and performed edited osi slightly to make it functional. 
+
 v0.00.003
 - Removed data\Art\hud folder as contents are not used.
 - Removed empty haka.blk from data\levels\lev4
