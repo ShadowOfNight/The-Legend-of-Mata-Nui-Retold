@@ -7,6 +7,12 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.100
+- Cleaned up lev0.blk so it has only the textures it needs.
+- Fixed material.slb in lev0.blk from causing front end bcl from using incorrect footstep sounds. Also stripped slb of unneeded materials.
+- Removed unneeded texture references from textures.slb in lev0.blk.
+- Ported jamesster's fixes for the various issues with frnt.blk models.
+
 v0.00.004
 - Added areas ILLU and GLY2 to levels\lev5 and added entries to debug warp list for Lewa.
 - Removed blank debug menu entries under Abilities menu.

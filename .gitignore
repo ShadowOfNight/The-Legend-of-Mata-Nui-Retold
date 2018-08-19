@@ -1,8 +1,13 @@
+*.bcl
+*.dds
 *.dll
 *.exe
 *.ini
 *.log
 *.sav
+*.slb
+*.tga
+*.x
 
 dgVoodoo.conf
 data/art/Art.blk
