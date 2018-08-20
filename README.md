@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.102
+- Removed LEGO and Saffire intros (both files and osi coding).
+- Compressed lev0 blk and recompressed frnt.blk with newer blk script.
+
 v0.00.101
 - Removed some outdated symbols from base.osi.
 - Updated gitignore file.
