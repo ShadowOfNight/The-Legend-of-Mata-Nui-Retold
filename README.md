@@ -7,11 +7,21 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.101
+- Removed some outdated symbols from base.osi.
+- Updated gitignore file.
+
 v0.00.100
 - Cleaned up lev0.blk so it has only the textures it needs.
 - Fixed material.slb in lev0.blk from causing front end bcl from using incorrect footstep sounds. Also stripped slb of unneeded materials.
 - Removed unneeded texture references from textures.slb in lev0.blk.
 - Ported jamesster's fixes for the various issues with frnt.blk models.
+
+v0.00.005
+-Fixed the Kanohi Kaukau being called the "Mask of Water" instead of the "Mask of Water Breathing" in both the glossary and MWAT
+-Fixed the throwing disk in Lev2 being called the "Gali throwing disk"
+-Added the name "Taniwa-Nui" into the Lev2 text for the boss
+-Replaced beta HYDR dialogue with the alpha lines
 
 v0.00.004
 - Added areas ILLU and GLY2 to levels\lev5 and added entries to debug warp list for Lewa.

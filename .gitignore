@@ -1,4 +1,5 @@
 *.bcl
+*.bmp
 *.dds
 *.dll
 *.exe
@@ -7,8 +8,10 @@
 *.sav
 *.slb
 *.tga
+*.tng
 *.x
 
 dgVoodoo.conf
 data/art/Art.blk
+data/art/art/printerart.blk
 OSI changelog.txt
