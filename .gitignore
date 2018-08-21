@@ -12,6 +12,5 @@
 *.x
 
 dgVoodoo.conf
-data/art/Art.blk
 data/art/art/printerart.blk
 OSI changelog.txt

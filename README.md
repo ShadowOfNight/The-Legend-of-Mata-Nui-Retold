@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.103
+- Added cleaned up version of Art.blk.
+- Compressed lang_eng.blk.
+
 v0.00.102
 - Removed LEGO and Saffire intros (both files and osi coding).
 - Compressed lev0 blk and recompressed frnt.blk with newer blk script.
@@ -22,10 +26,10 @@ v0.00.100
 - Ported jamesster's fixes for the various issues with frnt.blk models.
 
 v0.00.005
--Fixed the Kanohi Kaukau being called the "Mask of Water" instead of the "Mask of Water Breathing" in both the glossary and MWAT
--Fixed the throwing disk in Lev2 being called the "Gali throwing disk"
--Added the name "Taniwa-Nui" into the Lev2 text for the boss
--Replaced beta HYDR dialogue with the alpha lines
+- Fixed the Kanohi Kaukau being called the "Mask of Water" instead of the "Mask of Water Breathing" in both the glossary and MWAT
+- Fixed the throwing disk in Lev2 being called the "Gali throwing disk"
+- Added the name "Taniwa-Nui" into the Lev2 text for the boss
+- Replaced beta HYDR dialogue with the alpha lines
 
 v0.00.004
 - Added areas ILLU and GLY2 to levels\lev5 and added entries to debug warp list for Lewa.
