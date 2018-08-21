@@ -7,6 +7,17 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.200
+- Added JrMasterModelBuilder's fixes for character sandprints.
+- Fixed Gali melee crash by temporarily using jump sound in place of non-existent kick sound.
+- Fixed Gali backstep issues in animevents.slb.
+- Ported alpha animations for cutscenes for characters.
+- Removed old language test screen code from OSI.
+- Removed Names slbs from some character folders; animation ID lists will be made to replace them.
+- Changed grass texture in front end.
+- Fixed Nui-Rama broken animations.
+- Added Hexadecimal Mantis' fix for Lewa jump sound.
+
 v0.00.103
 - Added cleaned up version of Art.blk.
 - Compressed lang_eng.blk.

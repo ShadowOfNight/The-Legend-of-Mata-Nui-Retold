@@ -1,5 +1,8 @@
 *.bcl
+*.bhd
+*.bkd
 *.bmp
+*.cdx
 *.dds
 *.dll
 *.exe
@@ -9,6 +12,7 @@
 *.slb
 *.tga
 *.tng
+*.txt
 *.x
 
 dgVoodoo.conf
