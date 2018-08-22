@@ -7,6 +7,14 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.202
+- Added texture animations to water elemental.
+- Fixed texture transparency on air and water elementals.
+- Added weak point textures for water and ice elementals; also edited textures (and subsequently for the earth elemental).
+
+v0.00.201
+- Ported alpha stringtables.
+
 v0.00.200
 - Added JrMasterModelBuilder's fixes for character sandprints.
 - Fixed Gali melee crash by temporarily using jump sound in place of non-existent kick sound.
