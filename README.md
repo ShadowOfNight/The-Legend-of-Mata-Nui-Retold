@@ -7,6 +7,11 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.203
+- Fixed ice bat movelist typos.
+- Increased mud texture animation speed for mud monster.
+- Compressed and cleaned up textures blk.
+
 v0.00.202
 - Added texture animations to water elemental.
 - Fixed texture transparency on air and water elementals.
