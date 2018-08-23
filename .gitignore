@@ -8,11 +8,13 @@
 *.exe
 *.ini
 *.log
+*.ocl
 *.sav
 *.slb
 *.tga
 *.tng
 *.txt
+*.wav
 *.x
 
 dgVoodoo.conf

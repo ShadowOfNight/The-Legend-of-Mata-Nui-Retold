@@ -2,11 +2,18 @@
 
 Description
 --------------
-Renovation of the beta build through porting the alpha content and performing an overhaul of the said content.
+Renovation of the beta build through porting the alpha content and performing an overhaul of said content.
 
 
 Changelog
 --------------
+v0.00.204
+- Fixed falltodeath sound from not playing.
+- Removed old ghut.blk from level 2 assets.
+- Ported alpha BECH area.
+- Ported alpha PTV2 area.
+- Removed whirlpool from lev2 Shrn.blk (updated obj.slb).
+
 v0.00.203
 - Fixed ice bat movelist typos.
 - Increased mud texture animation speed for mud monster.
