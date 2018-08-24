@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.206
+- Added alpha CONVO_slbs for SHRN and BOSS blks in lev2 through lev6.
+- Fixed small typo in lang_eng.blk that caused Matau's SHRN and BOSS dialogue to not display properly.
+
 v0.00.205
 - Moved block back in PTV2 due to it being too far forward to hit trigger plane.
 - Activated PTV2 area code with slight cleanup.
