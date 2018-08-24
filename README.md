@@ -7,6 +7,11 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.205
+- Moved block back in PTV2 due to it being too far forward to hit trigger plane.
+- Activated PTV2 area code with slight cleanup.
+- Partially reordered Onua debug warp list.
+
 v0.00.204
 - Fixed falltodeath sound from not playing.
 - Removed old ghut.blk from level 2 assets.
