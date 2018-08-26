@@ -7,6 +7,13 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.207
+- Improved PTV2 a bit; updated tree collisions, added hive, fixed improper culling with tree model, adjusted lighting (though it's still broken), adjusted start positions slightly.
+- Removed coding for PTV1 area in OSI.
+- Removed duplicate MusicOnuaAmbience strings; changed all references to match casing of string.
+- Fixed bridges in CLF1 from being out sometimes upon entering.
+- Ported alpha MOSH for level 1.
+
 v0.00.206
 - Added alpha CONVO_slbs for SHRN and BOSS blks in lev2 through lev6.
 - Fixed small typo in lang_eng.blk that caused Matau's SHRN and BOSS dialogue to not display properly.
