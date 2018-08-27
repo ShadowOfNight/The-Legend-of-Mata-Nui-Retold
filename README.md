@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.209
+- Fixed triggers in L1A6 and TMBL.
+- Moved exit door function from osi into TMBL trigger slb for simplicity.
+
 v0.00.208
 - Ported alpha L1A2 area; activated osi code for it.
 - Ported alpha L1A6 area; activated osi code for it.
