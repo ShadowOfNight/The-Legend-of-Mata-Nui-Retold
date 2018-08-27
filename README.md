@@ -7,6 +7,11 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.208
+- Ported alpha L1A2 area; activated osi code for it.
+- Ported alpha L1A6 area; activated osi code for it.
+- Ported alpha TMBL area; activated osi code for it.
+
 v0.00.207
 - Improved PTV2 a bit; updated tree collisions, added hive, fixed improper culling with tree model, adjusted lighting (though it's still broken), adjusted start positions slightly.
 - Removed coding for PTV1 area in OSI.
