@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.210
+- Some more osi symbol cleanup; removed an unused cheat subroutine for TMBL.
+- Fixed L1A6 trigger.
+
 v0.00.209
 - Fixed triggers in L1A6 and TMBL.
 - Moved exit door function from osi into TMBL trigger slb for simplicity.
