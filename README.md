@@ -7,6 +7,11 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.211
+- Replaced sky models in BECH and PTV2.
+- Removed PTV1 from assets (removed PTV1 string from osi as well).
+- Some more osi cleanup (removed a debug string)
+
 v0.00.210
 - Some more osi symbol cleanup; removed an unused cheat subroutine for TMBL.
 - Fixed L1A6 trigger.
