@@ -7,6 +7,11 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.212
+- More osi cleanup; set up MTUP to be loaded first in level 2.
+- Ported alpha level 2 MTUP.
+- Added Load Game function back to test menu. (courtesy Hexadecimal Mantis)
+
 v0.00.211
 - Replaced sky models in BECH and PTV2.
 - Removed PTV1 from assets (removed PTV1 string from osi as well).
