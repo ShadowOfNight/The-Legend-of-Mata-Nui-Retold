@@ -7,6 +7,13 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.213
+- Removed cin4 and cin5 files from lev1 blk.
+- Fixed stringtable pointers in cin1_text.slb and cin2_text.slb in lev1.blk.
+- Ported alpha ATRM area and made some adjustments to it.
+- Updated osi coding for ATRM.
+- Added missing osi coding for grapple point in level 4 area CRSS.
+
 v0.00.212
 - More osi cleanup; set up MTUP to be loaded first in level 2.
 - Ported alpha level 2 MTUP.
