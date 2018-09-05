@@ -7,6 +7,16 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.214
+- Enabled Options menu in the developer menu.
+- Fixed Onua right sidestep problem.
+- Added fixes for TTUN positioning issues.
+- Added air bubbles to ATRM; repositioned tokens; removed two bugs; adjusted grapple box position.
+- Fixed water splash sounds from not playing.
+- Reorganized Lev1_eng.slb; removed old copies of Fluff_eng.slb and Lev7_eng.slb.
+- Disabled grapple box in Ga-Koro.
+- Fixed issues with sky, water, and main models in level 2 MTUP.
+
 v0.00.213
 - Removed cin4 and cin5 files from lev1 blk.
 - Fixed stringtable pointers in cin1_text.slb and cin2_text.slb in lev1.blk.
