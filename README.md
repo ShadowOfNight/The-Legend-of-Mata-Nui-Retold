@@ -7,6 +7,13 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.215
+- Added new sign text into Lev1_eng.slb.
+- Added conversation slb to TMBL.
+- Adjusted ATRM convo slb per totem addition.
+- Added sign model to ATRM.
+- Set up level 2 so Gali starts with just the Pakari.  
+
 v0.00.214
 - Enabled Options menu in the developer menu.
 - Fixed Onua right sidestep problem.
