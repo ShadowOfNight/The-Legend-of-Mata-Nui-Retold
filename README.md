@@ -7,6 +7,19 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.217
+- Added BECH area to level 2 (added debu menu entry).
+- Removed Kau Kau mask textures/models from Kopaka and Tahu blks.
+- Removed Kau Kau from Kopaka and Tahu inventories.
+- Edited Gali's Kau Kau textures to have translucency.
+- Fixed mask transparency issues in character textures blk.
+- Changed Vahi mask texture colour to gold.
+- Cleaned up some redundant strings in the osi.
+
+v0.00.216
+- Added tutorial text into Lev2.
+- Inserted Lev3_eng.slb, which was missing for an unknown reason.
+
 v0.00.215
 - Added new sign text into Lev1_eng.slb.
 - Added conversation slb to TMBL.
