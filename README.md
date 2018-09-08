@@ -7,6 +7,10 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.219
+- Changed meetup text for each Toa to fit changed gameplay.
+- Fixed a small typo in the Lev3_eng.slb.
+
 v0.00.218
 - Added sign back into L1A1 area; also removed a hive.
 - Cleaned up L1A1 blk a bit, along with osi coding.
