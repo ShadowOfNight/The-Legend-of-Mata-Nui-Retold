@@ -7,8 +7,12 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.218
+- Added sign back into L1A1 area; also removed a hive.
+- Cleaned up L1A1 blk a bit, along with osi coding.
+
 v0.00.217
-- Added BECH area to level 2 (added debu menu entry).
+- Added BECH area to level 2 (added warp menu entry as well).
 - Removed Kau Kau mask textures/models from Kopaka and Tahu blks.
 - Removed Kau Kau from Kopaka and Tahu inventories.
 - Edited Gali's Kau Kau textures to have translucency.
