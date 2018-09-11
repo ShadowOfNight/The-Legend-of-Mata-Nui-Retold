@@ -7,6 +7,12 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.220
+- Set up Lewa to start with just the Akaku, Komau, Rau, and Ruru masks.
+- Removed Huna model/textures from Lewa's assets.
+- Removed old hutt blks from levels 3, 4, and 6.
+- More osi symbols cleanup.
+
 v0.00.219
 - Changed meetup text for each Toa to fit changed gameplay.
 - Fixed a small typo in the Lev3_eng.slb.
