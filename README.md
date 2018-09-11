@@ -7,6 +7,14 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.221
+- Removed outdated strings from Lev1_eng.slb.
+- Removed old lev4c.blk from level 4 assets.
+- Some more osi cleanup.
+- Added ICMZ area to Kopaka's warp list
+- Added slbs to ICMZ blk that were missing.
+- Removed disc and glyph models from ICMZ (updated obj slb) and replaced area ocl with a bcl.
+
 v0.00.220
 - Set up Lewa to start with just the Akaku, Komau, Rau, and Ruru masks.
 - Removed Huna model/textures from Lewa's assets.
