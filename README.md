@@ -7,6 +7,12 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.222
+- Various fixes/adjustments/edits to stringtables.
+- More osi cleanup; MAZ2 ui disappearance bug fixed.
+- Added osi coding for ICMZ.
+- Fixed incorrect boolean value in tfsh AIInfo.slb which prevented it from swimming properly.
+
 v0.00.221
 - Removed outdated strings from Lev1_eng.slb.
 - Removed old lev4c.blk from level 4 assets.
