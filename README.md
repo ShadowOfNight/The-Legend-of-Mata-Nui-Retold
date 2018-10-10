@@ -7,6 +7,15 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.300
+- Fixed turaga vertex color barfing.
+- Fixed issues with bull movement sound loop not stopping properly.
+- Fixed a problem that caused killboxes in BLR areas to warp you instead of respawning.
+- Fixed cutscene skipping/audio issues in BLCV.
+- Fixed various texture animation issues for all levels.
+- Ported alpha cutscene files.
+- Fixed texture transparency issue in VLLG; added coindoor texture (level 6).
+
 v0.00.222
 - Various fixes/adjustments/edits to stringtables.
 - More osi cleanup; MAZ2 ui disappearance bug fixed.
