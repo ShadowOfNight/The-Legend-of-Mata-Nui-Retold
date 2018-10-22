@@ -7,6 +7,18 @@ Renovation of the beta build through porting the alpha content and performing an
 
 Changelog
 --------------
+v0.00.400
+- Restored functionality to Nobua BECH cutscene.
+- Added killbox coding back into BECH.
+- Moved Nobua in PTV2 to before the push block.
+- Added death/spawn sounds for toa.
+- More OSI cleanup.
+- Changed timer sound effect.
+- Removed spid.blk from character assets.
+- Removed three old cinematic tracks from Sounds folder.
+- Added missing sound slbs into lev7 areas.
+- Separated unused textures out of lev7.blk.
+
 v0.00.300
 - Fixed turaga vertex color barfing.
 - Fixed issues with bull movement sound loop not stopping properly.
